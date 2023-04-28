@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-This simple Python program implements a number guessing game. The program generates a random number between 1 and 100, and the user's goal is to guess that number. The game provides hints to the user, indicating whether their guess is too high or too low. The game continues until the user correctly guesses the number, and the total number of attempts is displayed at the end.
+This simple Python program implements a number guessing game. The program generates a random number between 1 and 25, and the user's goal is to guess that number. The game provides hints to the user, indicating whether their guess is too high or too low. The game continues until the user correctly guesses the number, and the total number of attempts is displayed at the end.
 
 ## Getting Started
 

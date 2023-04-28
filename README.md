@@ -29,7 +29,7 @@ python number_guessing_game.py
 
 ## Author
 
-- Your Name - Initial work
+- Your Name - Mokarbeen Ansari
 
 ## License
 

@@ -2,7 +2,7 @@ import random
 
 def main():
     print("Welcome to the Number Guessing Game!")
-    print("I'm thinking of a number between 1 and 25.")
+    print("I am thinking of a number between 1 and 25.")
     
     random_number = random.randint(1, 25)
     attempts = 0
